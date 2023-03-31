@@ -8,7 +8,7 @@ The project contains one leader robot moving in an arbitrary trajectory dependin
 From the camera we extract the center of the robot and calculate the required twist need for the follower.
 And the laser scanner measure the distance between the robots and keeps a minimum distance between them.
 
-
+Note: a simulation video in gazebo simulator is attached with the files
 
 
 ## Getting started
